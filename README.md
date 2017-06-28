@@ -3,7 +3,7 @@
 
 # BD2K OER Materials Blueprint
 
-Revised 04/12/2016
+
 
 ## Module Number: BDK05
 
@@ -32,7 +32,7 @@ At the completion of this component, the learner will be able to:
 
 Unit 1 Slides: BDK05-1.pptx
 
-Unit 1 Audio: BDK05-1.mp3
+Unit 1 Audio: BDK05-1.mp3 - Full lecture, Audio File - Individual Slides
 
 Unit 1 Resources: BDK05-1_resources.pdf
 
@@ -42,7 +42,7 @@ Review the paper “Oral tolerance and OVA-induced tolerogenic dendritic cells r
 
 ### Module Supplemental Materials
 
-Exercises: BDK05\_exercises.zip
+Exercises: BDK05\_exercises
 
 References & Resources: BDK05\_Ref.pdf
 
